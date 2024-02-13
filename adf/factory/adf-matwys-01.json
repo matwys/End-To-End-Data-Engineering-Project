@@ -1,0 +1,9 @@
+{
+	"name": "adf-matwys-01",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "aabef167-1f19-425a-95ef-72594f2346de",
+		"tenantId": "32b862e9-ac4a-4fdf-88b7-cfb95ca43a83"
+	}
+}
