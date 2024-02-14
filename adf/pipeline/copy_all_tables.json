@@ -22,7 +22,7 @@
 						"partitionOption": "None"
 					},
 					"dataset": {
-						"referenceName": "SqlDBTables",
+						"referenceName": "SqlServerCopy",
 						"type": "DatasetReference"
 					},
 					"firstRowOnly": false
