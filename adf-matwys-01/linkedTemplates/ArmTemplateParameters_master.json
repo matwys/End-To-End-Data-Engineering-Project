@@ -5,6 +5,15 @@
 		"factoryName": {
 			"value": "adf-matwys-01"
 		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
+		},
+		"onpremisqlserver_connectionString": {
+			"value": "Integrated Security=False;Data Source=LAPTOP-HCRN8TKF;Initial Catalog=AdventureWorksLT2022;User ID=matwys"
+		},
+		"AzureKeyVault1_properties_typeProperties_baseUrl": {
+			"value": "https://kv-matwys-02.vault.azure.net/"
+		},
 		"containerUri": {
 			"value": ""
 		},
