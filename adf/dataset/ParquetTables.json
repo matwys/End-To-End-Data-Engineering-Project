@@ -2,7 +2,7 @@
 	"name": "ParquetTables",
 	"properties": {
 		"linkedServiceName": {
-			"referenceName": "AzureBlobStorage2",
+			"referenceName": "AzureBlobStorage1",
 			"type": "LinkedServiceReference"
 		},
 		"parameters": {
