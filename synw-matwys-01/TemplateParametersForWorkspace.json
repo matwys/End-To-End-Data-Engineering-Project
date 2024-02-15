@@ -8,6 +8,9 @@
 		"AzureBlobStorage1_connectionString": {
 			"value": ""
 		},
+		"serverlessSQLdb_connectionString": {
+			"value": "Integrated Security=False;Encrypt=True;Connection Timeout=30;Data Source=synw-matwys-01-ondemand.sql.azuresynapse.net;Initial Catalog=gold_db"
+		},
 		"synw-matwys-01-WorkspaceDefaultSqlServer_connectionString": {
 			"value": "Integrated Security=False;Encrypt=True;Connection Timeout=30;Data Source=tcp:synw-matwys-01.sql.azuresynapse.net,1433;Initial Catalog=@{linkedService().DBName}"
 		},
