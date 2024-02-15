@@ -2,7 +2,7 @@
 	"name": "address_Parquet1",
 	"properties": {
 		"linkedServiceName": {
-			"referenceName": "AzureBlobStorage1",
+			"referenceName": "AzureBlobStorage2",
 			"type": "LinkedServiceReference"
 		},
 		"annotations": [],
