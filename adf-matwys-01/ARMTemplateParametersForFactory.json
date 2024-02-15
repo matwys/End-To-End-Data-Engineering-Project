@@ -14,6 +14,9 @@
 		"onpremisqlserver_connectionString": {
 			"value": "Integrated Security=False;Data Source=LAPTOP-HCRN8TKF;Initial Catalog=AdventureWorksLT2022;User ID=matwys"
 		},
+		"AzureDatabricks1_properties_typeProperties_existingClusterId": {
+			"value": "0215-081532-vl1qs1v5"
+		},
 		"AzureKeyVault1_properties_typeProperties_baseUrl": {
 			"value": "https://kv-matwys-02.vault.azure.net/"
 		}

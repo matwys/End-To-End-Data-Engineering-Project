@@ -20,6 +20,10 @@
 			"metadata": "Secure string for 'connectionString' of 'onpremisqlserver'",
 			"defaultValue": "Integrated Security=False;Data Source=LAPTOP-HCRN8TKF;Initial Catalog=AdventureWorksLT2022;User ID=matwys"
 		},
+		"AzureDatabricks1_properties_typeProperties_existingClusterId": {
+			"type": "string",
+			"defaultValue": "0215-081532-vl1qs1v5"
+		},
 		"AzureKeyVault1_properties_typeProperties_baseUrl": {
 			"type": "string",
 			"defaultValue": "https://kv-matwys-02.vault.azure.net/"
@@ -62,6 +66,9 @@
 					},
 					"AzureKeyVault1_properties_typeProperties_baseUrl": {
 						"value": "[parameters('AzureKeyVault1_properties_typeProperties_baseUrl')]"
+					},
+					"AzureDatabricks1_properties_typeProperties_existingClusterId": {
+						"value": "[parameters('AzureDatabricks1_properties_typeProperties_existingClusterId')]"
 					}
 				}
 			},
